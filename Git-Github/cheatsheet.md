@@ -1,7 +1,6 @@
 # Comandos de git
 
 ## Primeros pasos
-<br> 
 
 ### Configuración inicial
 Para inciar el repositorio local
@@ -54,7 +53,6 @@ git pull origin main
 
 ## Pasos para repositorio existente
 
-<br>
 
 ### Descargar repositorio a computadora
 Como el nombre lo indica, crea una copia de un repositorio que ya existe.

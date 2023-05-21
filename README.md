@@ -1,1 +1,2 @@
-# Mochila_Castro_Cesar
+# CERTIFIED TECH DEVELOPER - Digital House
+### Introducción a la informática - C1

@@ -1,0 +1,28 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+
+Un lenguaje de programación puede estar disponible solo en algunos sistemas operativos y no en otros debido a varias razones:
+
+Implementación y soporte: Un lenguaje de programación necesita ser implementado y mantenerse en cada sistema operativo específico. Esto implica desarrollar un compilador o un intérprete adecuado para ese sistema operativo, lo que requiere tiempo y recursos. Si los desarrolladores del lenguaje de programación no han creado o mantenido una implementación para un sistema operativo en particular, no será compatible con ese sistema.
+
+Dependencias del sistema: Los lenguajes de programación a menudo dependen de ciertas bibliotecas o componentes del sistema operativo para funcionar correctamente. Estas dependencias pueden estar presentes en algunos sistemas operativos y no en otros. Si el lenguaje de programación requiere una biblioteca específica que solo está disponible en ciertos sistemas operativos, entonces solo podrá utilizarse en esos sistemas.
+
+Popularidad y demanda: La disponibilidad de un lenguaje de programación en un sistema operativo también puede verse influenciada por la popularidad y la demanda de ese lenguaje en ese entorno. Si un lenguaje de programación no es ampliamente utilizado en un sistema operativo en particular, es posible que los desarrolladores no vean la necesidad de invertir tiempo y esfuerzo en hacerlo compatible.
+
+Políticas y estrategias de la comunidad de desarrollo: Las comunidades de desarrollo de lenguajes de programación pueden tener diferentes prioridades y estrategias. Pueden optar por enfocarse en ciertos sistemas operativos o plataformas específicas en función de sus objetivos y recursos disponibles. Esto puede resultar en la falta de soporte para ciertos sistemas operativos.
+
+En resumen, la disponibilidad de un lenguaje de programación en un sistema operativo particular depende de la implementación y el soporte que se haya proporcionado, las dependencias del sistema, la popularidad y la demanda, así como las políticas y estrategias de la comunidad de desarrollo del lenguaje.
+
+
+
+¿Qué tipo de máquina virtual es virtualBox?
+
+En cuanto al tipo de máquina virtual, VirtualBox se clasifica como una máquina virtual de tipo 2 (hosted hypervisor). Esto significa que se instala y se ejecuta sobre un sistema operativo host existente, como Windows, Linux o macOS, y proporciona la capacidad de ejecutar otros sistemas operativos invitados dentro de él. A diferencia de las máquinas virtuales de tipo 1 (bare-metal hypervisor), que se ejecutan directamente en el hardware físico, las máquinas virtuales de tipo 2 dependen del sistema operativo host para funcionar.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Si tienes varias máquinas virtuales instaladas en un entorno de virtualización, normalmente el fallo o la corrupción de una máquina virtual en particular no afectará directamente a las demás máquinas virtuales. Esto se debe a la naturaleza aislada de las máquinas virtuales.
+
+Cada máquina virtual se ejecuta de forma independiente y tiene su propio sistema operativo, aplicaciones y archivos. Están encapsuladas dentro de archivos o imágenes de disco virtual, lo que significa que son unidades separadas y autónomas. Cada máquina virtual tiene su propia configuración, recursos asignados y espacio de almacenamiento.
+

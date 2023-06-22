@@ -1,0 +1,11 @@
+IP PRIVADA:
+inet: 10.0.2.14
+
+IP PUBLICA:
+148.244.101.164
+
+MAC:
+hw:08:00:27:cd:96:77
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+SI.

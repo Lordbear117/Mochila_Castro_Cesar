@@ -1,0 +1,18 @@
+Telnet:
+¿Cuáles son las ventajas y desventajas de utilizar el protocolo Telnet?
+Ventajas: Apto para todo tipo de plataformas, funciona cuando no se puede usar SSH.
+Desventajas: No está encriptado, Telnet no permite el acceso a todos los servidores.
+
+SSH:
+¿Cuáles son las ventajas y desventajas de utilizar el protocolo SSH?
+Venyajas: Está encriptado y es gratuito.
+Desventajas: No tiene entorno gráfico, no es tan veloz.
+
+Diferencias entre SSH y Telnet:
+¿Cuáles son las principales diferencias entre SSH y Telnet?
+SSH es mas seguro que telnet porque está cifrado y no permite que sea tan fácil ver que datos 
+se estan compartiendo. SSH si cifra los datos a diferencia de Telnet, aunque se puede usar
+Kerberos en telnet para encriptar los datos.
+En Telnet solo te conectas con la ip a traves del puerto 23 y con SSH tienes más opciones 
+para conectarte al host a traves del puerto 22, pero también se puede cambiar el puerto y no
+solo el 22.
